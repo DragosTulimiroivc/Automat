@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\Automat\Automat\bin\Debug\Automat.exe.config
+C:\Users\Ucenik\source\repos\Automat\Automat\bin\Debug\Automat.exe
+C:\Users\Ucenik\source\repos\Automat\Automat\bin\Debug\Automat.pdb
+C:\Users\Ucenik\source\repos\Automat\Automat\obj\Debug\Automat.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Automat\Automat\obj\Debug\Automat.Form1.resources
+C:\Users\Ucenik\source\repos\Automat\Automat\obj\Debug\Automat.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\Automat\Automat\obj\Debug\Automat.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\Automat\Automat\obj\Debug\Automat.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Automat\Automat\obj\Debug\Automat.exe
+C:\Users\Ucenik\source\repos\Automat\Automat\obj\Debug\Automat.pdb
